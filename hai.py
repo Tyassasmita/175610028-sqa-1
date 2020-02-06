@@ -7,3 +7,5 @@ It's Friday!
 >>> print"Stay positive and have a great day uwu!!"
 Stay positive and have a great day uwu!!
 >>> 
+#worrrrrrrrrrrrrrrrrrrr
+#wryyyyyyyyyy
